@@ -1,1 +1,1 @@
-# springboot_board(게시판 리액트 버전)
+# springboot_board frontend react
